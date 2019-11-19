@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
 function NewsfeedList(props){
-  console.log(props.newsfeedList);
+  // console.log(props.newsfeedList);
   return (
     <div>
       <hr/>
